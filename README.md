@@ -1,0 +1,10 @@
+# VRProject
+
+Ehh dit is de github van ons VR Project. 
+COMMIT NAAR JE EIGEN BRANCH ALTIJD.
+DAAROM ZIJN DIE DINGEN ER. 
+NIET OMDAT HET LEUK IS OM ZE TE MAKEN.
+MAAR OMDAT ZE NUTTIG ZIJN WANT DAN WERKEN WE NIET IN HET ZELFDE BRANCH.
+Dus veel succes en veel plezier met jullie dingetjes. 
+
+PIKMINS FOR LIFE...
